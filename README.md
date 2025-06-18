@@ -15,7 +15,7 @@ A multithreaded client-server chat application built using C++ sockets that supp
 
 ```
 
-chat\_app/
+ConsoleChat
 ├── client.cpp         # Client-side logic with personal messaging
 ├── server.cpp         # Server-side logic with multiple clients and logging
 ├── aes.hpp            # Custom XOR-based AES-like encryption
